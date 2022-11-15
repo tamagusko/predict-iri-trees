@@ -5,7 +5,7 @@ The preprint for this paper is available at: https://arxiv.org/abs/arXiv
 ## Basic info
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Project Page: [predictPavementTrees](https://github.com/tamagusko/predictPavementTrees)  
-ArXiv: [arXiv](https://arxiv.org/abs/arXiv)   
+ArXiv: [arXiv](https://arxiv.org/abs/arXiv)  
 License: [CC-BY-NC-ND-4.0](/LICENSE)
 
 ## Abstract

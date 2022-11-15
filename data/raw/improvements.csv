@@ -1,0 +1,1007 @@
+STATE_CODE,STATE_CODE_EXP,SHRP_ID,IMP_DATE,IMP_TYPE,IMP_TYPE_EXP,CONSTRUCTION_NO,IMP_QUANTITY,IMP_THICKNESS,IMP_QUANTITY_UNITS,IMP_QUANTITY_UNITS_EXP
+4,Arizona,1002,07-25-1996,51,Mill Off AC and Overlay with AC ,3,667,"88,9",2,Square Yards
+4,Arizona,1003,10-01-1993,51,Mill Off AC and Overlay with AC ,4,667,"152,4",2,Square Yards
+4,Arizona,1007,02-01-1995,51,Mill Off AC and Overlay with AC ,4,667,"114,3",2,Square Yards
+4,Arizona,1015,01-01-1997,51,Mill Off AC and Overlay with AC ,2,667,"165,1",2,Square Yards
+4,Arizona,1016,05-01-1998,51,Mill Off AC and Overlay with AC ,3,667,"127,0",2,Square Yards
+4,Arizona,1022,01-10-1996,51,Mill Off AC and Overlay with AC ,3,667,"114,3",2,Square Yards
+4,Arizona,1022,10-07-2015,51,Mill Off AC and Overlay with AC ,4,667,"139,7",2,Square Yards
+4,Arizona,1024,04-01-1999,51,Mill Off AC and Overlay with AC ,8,667,"165,1",2,Square Yards
+4,Arizona,1025,06-01-1999,51,Mill Off AC and Overlay with AC ,5,667,"114,3",2,Square Yards
+4,Arizona,1062,10-07-2015,51,Mill Off AC and Overlay with AC ,7,667,"127,0",2,Square Yards
+4,Arizona,1017,05-12-1997,51,Mill Off AC and Overlay with AC ,3,,"139,7",,
+4,Arizona,1018,12-01-1997,51,Mill Off AC and Overlay with AC ,4,,"139,7",,
+4,Arizona,1021,01-01-1997,51,Mill Off AC and Overlay with AC ,5,,"203,2",,
+4,Arizona,1025,06-01-1999,51,Mill Off AC and Overlay with AC ,5,,,,
+4,Arizona,1017,01-01-1989,12,Grinding Surface,2,,,,
+4,Arizona,1018,01-01-1989,12,Grinding Surface,2,,,,
+4,Arizona,1062,10-02-1992,12,Grinding Surface,4,,,,
+4,Arizona,1062,09-01-1999,12,Grinding Surface,5,,,,
+4,Arizona,1065,10-02-1992,12,Grinding Surface,5,,,,
+4,Arizona,1065,09-01-1999,12,Grinding Surface,6,,,,
+4,Arizona,1007,01-01-1990,11,AC Shoulder Replacement,3,,,,
+4,Arizona,1036,09-17-1993,32,Sand Seal Coat,2,,,,
+4,Arizona,1037,07-02-1993,32,Sand Seal Coat,2,,,,
+4,Arizona,1021,01-02-2008,33,Slurry Seal Coat,6,,,,
+4,Arizona,1001,01-01-1989,34,Fog Seal Coat,2,,,,
+4,Arizona,1007,04-01-1989,34,Fog Seal Coat,2,,,,
+4,Arizona,1024,02-03-1998,34,Fog Seal Coat,7,,,,
+4,Arizona,1025,09-04-1996,34,Fog Seal Coat,4,,,,
+4,Arizona,1006,10-01-1993,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,4,667,"152,4",2,Square Yards
+4,Arizona,1003,01-01-1989,1,Crack Sealing,2,,,,
+4,Arizona,1003,03-01-2015,1,Crack Sealing,6,,,,
+4,Arizona,1006,03-01-2015,1,Crack Sealing,6,,,,
+4,Arizona,1007,01-01-1990,1,Crack Sealing,3,,,,
+4,Arizona,1016,01-02-1991,1,Crack Sealing,2,,,,
+4,Arizona,1017,06-01-2012,1,Crack Sealing,4,,,,
+4,Arizona,1018,06-01-2012,1,Crack Sealing,5,,,,
+4,Arizona,1021,01-01-1990,1,Crack Sealing,2,,,,
+4,Arizona,1021,05-01-1994,1,Crack Sealing,4,,,,
+4,Arizona,1024,01-01-1990,1,Crack Sealing,3,,,,
+4,Arizona,1024,03-17-1997,1,Crack Sealing,5,,,,
+4,Arizona,1062,06-01-2012,1,Crack Sealing,6,,,,
+4,Arizona,1003,10-01-1993,19,Asphalt Concrete Overlay,4,667,"12,7",2,Square Yards
+4,Arizona,1006,10-01-1993,19,Asphalt Concrete Overlay,4,667,"76,2",2,Square Yards
+4,Arizona,1007,02-01-1995,19,Asphalt Concrete Overlay,4,667,"88,9",2,Square Yards
+4,Arizona,1015,01-01-1997,19,Asphalt Concrete Overlay,2,667,"12,7",2,Square Yards
+4,Arizona,1034,07-01-2001,19,Asphalt Concrete Overlay,5,667,"25,4",2,Square Yards
+4,Arizona,1062,10-02-1992,19,Asphalt Concrete Overlay,4,667,"25,4",2,Square Yards
+4,Arizona,1062,09-01-1999,19,Asphalt Concrete Overlay,5,667,"12,7",2,Square Yards
+4,Arizona,1065,10-02-1992,19,Asphalt Concrete Overlay,5,667,"20,3",2,Square Yards
+4,Arizona,1065,09-01-1999,19,Asphalt Concrete Overlay,6,667,"12,7",2,Square Yards
+4,Arizona,1018,12-01-1997,19,Asphalt Concrete Overlay,4,,"152,4",,
+4,Arizona,1006,07-01-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+4,Arizona,1002,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1003,01-01-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1003,01-01-2013,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+4,Arizona,1006,12-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1006,01-01-2013,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+4,Arizona,1007,06-01-2003,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+4,Arizona,1018,01-01-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1018,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1021,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1022,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1024,01-01-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1024,01-01-1990,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1024,07-01-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+4,Arizona,1024,07-07-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+4,Arizona,1025,01-01-1990,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1025,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1025,06-01-2016,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",7,,,,
+4,Arizona,1034,02-02-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+4,Arizona,1062,01-01-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1062,01-02-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1065,01-01-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+4,Arizona,1065,01-01-1990,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+4,Arizona,1065,01-01-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+4,Arizona,1003,06-01-1992,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+4,Arizona,1025,06-01-2011,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),6,,,,
+4,Arizona,1018,01-01-1991,28,"Surface Treatment, Single Layer",3,,,,
+4,Arizona,1021,01-02-2008,28,"Surface Treatment, Single Layer",6,,,,
+4,Arizona,1034,01-01-1990,28,"Surface Treatment, Single Layer",2,,,,
+4,Arizona,1034,05-01-1996,28,"Surface Treatment, Single Layer",3,,,,
+45,South Carolina,1025,09-02-1993,19,Asphalt Concrete Overlay,2,,"58,4",,
+45,South Carolina,1011,05-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+46,South Dakota,9187,08-06-1992,31,Aggregate Seal Coat,3,,,,
+46,South Dakota,9197,08-22-1995,31,Aggregate Seal Coat,4,,,,
+46,South Dakota,9197,07-01-2000,31,Aggregate Seal Coat,5,,,,
+46,South Dakota,9197,06-01-2013,31,Aggregate Seal Coat,7,,,,
+46,South Dakota,9187,06-19-1991,1,Crack Sealing,2,,,,
+46,South Dakota,9197,10-22-1991,1,Crack Sealing,3,,,,
+46,South Dakota,9197,09-01-2003,1,Crack Sealing,6,,,,
+46,South Dakota,9197,09-13-1989,19,Asphalt Concrete Overlay,2,667,"55,9",2,Square Yards
+46,South Dakota,9197,07-01-2000,19,Asphalt Concrete Overlay,5,667,"114,3",2,Square Yards
+47,Tennessee,3101,09-05-1995,51,Mill Off AC and Overlay with AC ,2,,"71,1",,
+47,Tennessee,3110,06-15-1989,51,Mill Off AC and Overlay with AC ,2,,"35,6",,
+47,Tennessee,1029,09-01-2014,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"33,0",2,Square Yards
+47,Tennessee,2001,10-15-2014,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,6,667,"43,2",2,Square Yards
+47,Tennessee,9025,09-05-1995,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"12,7",2,Square Yards
+47,Tennessee,1029,06-13-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,,"55,9",,
+47,Tennessee,1023,09-15-2001,1,Crack Sealing,4,,,,
+47,Tennessee,3108,09-15-2001,1,Crack Sealing,4,,,,
+47,Tennessee,9024,09-15-2002,1,Crack Sealing,3,,,,
+47,Tennessee,1023,08-26-1994,19,Asphalt Concrete Overlay,3,667,"45,7",2,Square Yards
+47,Tennessee,1028,08-15-1999,19,Asphalt Concrete Overlay,2,667,"88,9",2,Square Yards
+47,Tennessee,2001,10-16-1991,19,Asphalt Concrete Overlay,2,667,"76,2",2,Square Yards
+47,Tennessee,2001,09-15-2000,19,Asphalt Concrete Overlay,4,667,"83,8",2,Square Yards
+47,Tennessee,3108,11-02-1989,19,Asphalt Concrete Overlay,2,667,"83,8",2,Square Yards
+47,Tennessee,3109,06-26-1989,19,Asphalt Concrete Overlay,2,667,"45,7",2,Square Yards
+47,Tennessee,9024,04-26-1995,19,Asphalt Concrete Overlay,2,667,"40,6",2,Square Yards
+47,Tennessee,9025,09-05-1995,19,Asphalt Concrete Overlay,3,667,"71,1",2,Square Yards
+47,Tennessee,1029,06-13-1998,19,Asphalt Concrete Overlay,2,,"30,5",,
+47,Tennessee,2008,11-01-1989,19,Asphalt Concrete Overlay,2,,"38,1",,
+47,Tennessee,2008,06-15-2001,19,Asphalt Concrete Overlay,3,,"33,0",,
+47,Tennessee,2008,11-01-1989,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+47,Tennessee,9025,05-15-1994,23,Machine Premix Patch (placing premix with paver roller),2,,,,
+47,Tennessee,1023,06-09-1990,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+47,Tennessee,2001,05-15-2000,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+47,Tennessee,3104,10-26-1989,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+47,Tennessee,1023,05-15-2004,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+47,Tennessee,2001,01-01-2011,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+47,Tennessee,3101,05-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+47,Tennessee,3108,05-15-2001,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+47,Tennessee,3108,05-15-2004,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+48,Texas,1116,02-12-1992,51,Mill Off AC and Overlay with AC ,3,667,"50,8",2,Square Yards
+48,Texas,2108,06-15-2003,51,Mill Off AC and Overlay with AC ,5,667,"50,8",2,Square Yards
+48,Texas,3769,05-09-2003,51,Mill Off AC and Overlay with AC ,2,667,"50,8",2,Square Yards
+48,Texas,1068,11-01-2000,12,Grinding Surface,5,,,,
+48,Texas,1174,03-15-1995,12,Grinding Surface,2,,,,
+48,Texas,2108,09-11-2012,12,Grinding Surface,6,,,,
+48,Texas,3739,04-02-2001,12,Grinding Surface,4,,,,
+48,Texas,9005,09-15-1998,31,Aggregate Seal Coat,2,,,,
+48,Texas,1039,08-15-1996,31,Aggregate Seal Coat,6,,,,
+48,Texas,1039,07-15-2001,31,Aggregate Seal Coat,7,,,,
+48,Texas,1056,07-02-1988,31,Aggregate Seal Coat,2,,,,
+48,Texas,1056,07-12-2000,31,Aggregate Seal Coat,3,,,,
+48,Texas,1065,08-23-1995,31,Aggregate Seal Coat,2,,,,
+48,Texas,1068,07-28-1999,31,Aggregate Seal Coat,4,,,,
+48,Texas,1068,11-01-2000,31,Aggregate Seal Coat,5,,,,
+48,Texas,1076,06-14-1999,31,Aggregate Seal Coat,3,,,,
+48,Texas,1076,07-23-2007,31,Aggregate Seal Coat,4,,,,
+48,Texas,1087,06-15-2004,31,Aggregate Seal Coat,3,,,,
+48,Texas,1092,08-28-1991,31,Aggregate Seal Coat,3,,,,
+48,Texas,1092,07-15-1995,31,Aggregate Seal Coat,4,,,,
+48,Texas,1094,09-15-1998,31,Aggregate Seal Coat,2,,,,
+48,Texas,1096,07-02-1996,31,Aggregate Seal Coat,2,,,,
+48,Texas,1096,05-30-2001,31,Aggregate Seal Coat,3,,,,
+48,Texas,1109,10-07-1996,31,Aggregate Seal Coat,2,,,,
+48,Texas,1109,08-14-1997,31,Aggregate Seal Coat,3,,,,
+48,Texas,1111,06-15-2011,31,Aggregate Seal Coat,3,,,,
+48,Texas,1113,06-08-1992,31,Aggregate Seal Coat,2,,,,
+48,Texas,1122,07-19-2002,31,Aggregate Seal Coat,2,,,,
+48,Texas,1130,07-22-1994,31,Aggregate Seal Coat,4,,,,
+48,Texas,1168,04-15-2002,31,Aggregate Seal Coat,3,,,,
+48,Texas,1169,08-20-2003,31,Aggregate Seal Coat,3,,,,
+48,Texas,2108,09-14-2012,31,Aggregate Seal Coat,6,,,,
+48,Texas,2133,08-03-2000,31,Aggregate Seal Coat,2,,,,
+48,Texas,2172,02-26-1991,31,Aggregate Seal Coat,3,,,,
+48,Texas,2172,07-13-1994,31,Aggregate Seal Coat,4,,,,
+48,Texas,2176,07-02-1997,31,Aggregate Seal Coat,2,,,,
+48,Texas,2176,06-15-2010,31,Aggregate Seal Coat,4,,,,
+48,Texas,3669,06-11-2003,31,Aggregate Seal Coat,4,,,,
+48,Texas,3669,08-03-2011,31,Aggregate Seal Coat,5,,,,
+48,Texas,3729,04-10-1999,31,Aggregate Seal Coat,2,,,,
+48,Texas,3739,09-26-1994,31,Aggregate Seal Coat,2,,,,
+48,Texas,3835,04-25-2000,31,Aggregate Seal Coat,3,,,,
+48,Texas,3855,09-15-2006,31,Aggregate Seal Coat,4,,,,
+48,Texas,3865,07-08-2003,31,Aggregate Seal Coat,3,,,,
+48,Texas,1039,11-06-1989,33,Slurry Seal Coat,2,,,,
+48,Texas,1039,11-04-2002,33,Slurry Seal Coat,8,,,,
+48,Texas,1087,08-28-1997,33,Slurry Seal Coat,2,,,,
+48,Texas,1123,09-01-1988,33,Slurry Seal Coat,2,,,,
+48,Texas,1169,05-15-2000,33,Slurry Seal Coat,2,,,,
+48,Texas,1068,10-15-1992,34,Fog Seal Coat,2,,,,
+48,Texas,1068,08-16-2004,34,Fog Seal Coat,6,,,,
+48,Texas,1077,11-17-1992,34,Fog Seal Coat,2,,,,
+48,Texas,3739,02-07-1995,34,Fog Seal Coat,3,,,,
+48,Texas,9005,09-15-2004,1,Crack Sealing,3,,,,
+48,Texas,0001,03-06-1997,1,Crack Sealing,2,,,,
+48,Texas,0001,09-15-2006,1,Crack Sealing,5,,,,
+48,Texas,1047,12-01-1988,1,Crack Sealing,2,,,,
+48,Texas,1047,01-22-1998,1,Crack Sealing,4,,,,
+48,Texas,1047,02-11-1998,1,Crack Sealing,5,,,,
+48,Texas,1069,09-14-1990,1,Crack Sealing,2,,,,
+48,Texas,1070,09-15-1999,1,Crack Sealing,5,,,,
+48,Texas,1092,09-15-2002,1,Crack Sealing,6,,,,
+48,Texas,1178,04-01-1991,1,Crack Sealing,2,,,,
+48,Texas,1183,01-31-1992,1,Crack Sealing,4,,,,
+48,Texas,2108,09-15-2000,1,Crack Sealing,4,,,,
+48,Texas,2172,08-09-1990,1,Crack Sealing,2,,,,
+48,Texas,3579,06-15-1992,1,Crack Sealing,2,,,,
+48,Texas,3835,09-14-1992,1,Crack Sealing,2,,,,
+48,Texas,9005,09-22-1998,19,Asphalt Concrete Overlay,2,667,"40,6",2,Square Yards
+48,Texas,1068,11-01-2000,19,Asphalt Concrete Overlay,5,667,"38,1",2,Square Yards
+48,Texas,1087,07-15-2011,19,Asphalt Concrete Overlay,4,667,"20,3",2,Square Yards
+48,Texas,1092,09-15-1998,19,Asphalt Concrete Overlay,5,667,"40,6",2,Square Yards
+48,Texas,1092,05-15-2010,19,Asphalt Concrete Overlay,7,667,"12,7",2,Square Yards
+48,Texas,1093,09-15-1988,19,Asphalt Concrete Overlay,2,667,"25,4",2,Square Yards
+48,Texas,1096,06-15-2001,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+48,Texas,1111,08-16-1999,19,Asphalt Concrete Overlay,2,667,"40,6",2,Square Yards
+48,Texas,1113,08-02-1992,19,Asphalt Concrete Overlay,2,667,"94,0",2,Square Yards
+48,Texas,1116,10-18-1990,19,Asphalt Concrete Overlay,2,667,"83,8",2,Square Yards
+48,Texas,1119,08-03-1989,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+48,Texas,1130,10-22-1992,19,Asphalt Concrete Overlay,3,667,"25,4",2,Square Yards
+48,Texas,2108,09-21-2012,19,Asphalt Concrete Overlay,6,667,"38,1",2,Square Yards
+48,Texas,2176,02-22-2001,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+48,Texas,3669,09-15-2000,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+48,Texas,3729,09-15-1999,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+48,Texas,3835,05-10-2000,19,Asphalt Concrete Overlay,3,667,"104,1",2,Square Yards
+48,Texas,3835,06-24-2000,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+48,Texas,3855,12-15-1998,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+48,Texas,3865,05-18-2001,19,Asphalt Concrete Overlay,2,722,"38,1",2,Square Yards
+48,Texas,3875,06-27-1991,19,Asphalt Concrete Overlay,2,667,"25,4",2,Square Yards
+48,Texas,1039,10-13-1996,19,Asphalt Concrete Overlay,6,,"63,5",,
+48,Texas,1077,10-15-1997,21,Mechanical Premix Patch (using motor grader and roller),3,,,,
+48,Texas,1092,01-02-1988,21,Mechanical Premix Patch (using motor grader and roller),2,,,,
+48,Texas,3875,05-15-1998,21,Mechanical Premix Patch (using motor grader and roller),3,,,,
+48,Texas,1050,06-15-1996,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+48,Texas,1069,01-15-2002,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+48,Texas,1069,03-15-2003,22,Manual Premix Spot Patch (hand spreading and compacting with roller),4,,,,
+48,Texas,1181,06-15-1999,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+48,Texas,3739,04-02-2001,22,Manual Premix Spot Patch (hand spreading and compacting with roller),4,,,,
+48,Texas,1068,08-14-1993,36,Tack Coat,3,,,,
+48,Texas,3855,07-01-1998,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),2,,,,
+48,Texas,0001,08-31-2004,23,Machine Premix Patch (placing premix with paver roller),4,,,,
+48,Texas,1093,05-15-1996,23,Machine Premix Patch (placing premix with paver roller),3,,,,
+48,Texas,3669,11-22-1995,23,Machine Premix Patch (placing premix with paver roller),2,,,,
+48,Texas,2108,09-07-2012,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",6,,,,
+48,Texas,3749,11-28-1995,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+48,Texas,0001,05-15-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1039,05-15-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1039,05-15-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+48,Texas,1039,09-15-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+48,Texas,1047,05-15-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1047,05-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+48,Texas,1048,05-15-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+48,Texas,1048,05-15-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1070,05-15-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+48,Texas,1070,05-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1070,05-15-1999,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+48,Texas,1070,05-15-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+48,Texas,1076,05-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+48,Texas,1109,05-15-2000,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+48,Texas,1116,05-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+48,Texas,1130,05-15-1991,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+48,Texas,1168,05-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+48,Texas,1168,05-15-2004,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+48,Texas,2108,08-01-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+48,Texas,1039,09-19-1989,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+48,Texas,1183,12-12-1990,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+48,Texas,1183,09-19-1991,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+48,Texas,1183,03-06-1992,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+48,Texas,2108,06-22-1994,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+48,Texas,2172,01-18-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),5,,,,
+48,Texas,3679,04-24-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+48,Texas,3679,06-05-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+48,Texas,3689,05-10-1994,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+48,Texas,3689,06-05-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+48,Texas,3689,05-28-1998,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+48,Texas,1093,09-15-1988,28,"Surface Treatment, Single Layer",2,,,,
+49,Utah,1001,08-01-2014,29,"Surface Treatment, Double Layer ",5,,,,
+49,Utah,1001,09-04-1996,31,Aggregate Seal Coat,2,,,,
+49,Utah,1001,08-01-2003,31,Aggregate Seal Coat,3,,,,
+49,Utah,1017,08-21-1988,31,Aggregate Seal Coat,2,,,,
+49,Utah,1001,06-01-2013,1,Crack Sealing,4,,,,
+49,Utah,1017,04-15-2001,1,Crack Sealing,3,,,,
+49,Utah,1008,06-14-1990,19,Asphalt Concrete Overlay,2,667,"25,4",2,Square Yards
+50,Vermont,1683,05-01-2012,43,Hot-Mix Recycled Asphalt Concrete Overlay,4,667,"50,8",2,Square Yards
+50,Vermont,1004,07-15-2001,51,Mill Off AC and Overlay with AC ,4,667,"66,0",2,Square Yards
+50,Vermont,1004,07-15-2001,10,AC Shoulder Restoration,4,444,"66,0",2,Square Yards
+50,Vermont,1004,06-01-2014,10,AC Shoulder Restoration,6,444,,2,Square Yards
+50,Vermont,1683,09-24-1991,10,AC Shoulder Restoration,2,556,"101,6",2,Square Yards
+50,Vermont,1683,05-01-2012,10,AC Shoulder Restoration,4,556,"50,8",2,Square Yards
+50,Vermont,1004,06-01-2014,31,Aggregate Seal Coat,6,,,,
+50,Vermont,1004,10-07-1998,1,Crack Sealing,2,,,,
+50,Vermont,1004,10-01-2005,1,Crack Sealing,5,,,,
+50,Vermont,1681,07-29-1999,1,Crack Sealing,3,,,,
+50,Vermont,1683,07-29-1999,1,Crack Sealing,3,,,,
+50,Vermont,1681,09-09-1991,19,Asphalt Concrete Overlay,2,667,"101,6",2,Square Yards
+50,Vermont,1683,09-24-1991,19,Asphalt Concrete Overlay,2,667,"101,6",2,Square Yards
+50,Vermont,1004,05-01-2001,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+50,Vermont,1683,05-01-2012,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+50,Vermont,1004,06-01-2014,28,"Surface Treatment, Single Layer",6,,,,
+12,Florida,3997,02-07-1995,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"63,5",2,Square Yards
+12,Florida,4096,06-10-2003,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+12,Florida,1030,06-15-1993,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,1370,08-01-1996,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,3997,02-07-1995,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,4096,02-21-2003,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,4100,08-29-2002,11,AC Shoulder Replacement,2,292,"50,8",2,Square Yards
+12,Florida,4135,02-16-1992,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,4136,02-16-1992,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,4137,02-16-1992,11,AC Shoulder Replacement,2,222,,2,Square Yards
+12,Florida,1030,07-24-2014,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"50,8",2,Square Yards
+12,Florida,1370,08-16-2000,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,5,667,"30,5",2,Square Yards
+12,Florida,4100,08-29-2002,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"33,0",2,Square Yards
+12,Florida,4100,08-12-2012,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"38,1",2,Square Yards
+12,Florida,4106,11-15-2003,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"58,4",2,Square Yards
+12,Florida,1370,08-16-2000,19,Asphalt Concrete Overlay,5,667,"15,2",2,Square Yards
+12,Florida,3997,02-07-1995,19,Asphalt Concrete Overlay,2,667,"12,7",2,Square Yards
+12,Florida,4096,02-21-2003,19,Asphalt Concrete Overlay,2,667,"12,7",2,Square Yards
+12,Florida,4096,10-06-2003,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+12,Florida,4100,08-29-2002,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+12,Florida,4100,08-12-2012,19,Asphalt Concrete Overlay,3,667,"25,4",2,Square Yards
+12,Florida,4101,08-02-1991,19,Asphalt Concrete Overlay,2,,"114,3",,
+12,Florida,4135,02-16-1992,19,Asphalt Concrete Overlay,2,,"61,0",,
+12,Florida,4136,02-16-1992,19,Asphalt Concrete Overlay,2,,"63,5",,
+12,Florida,4137,02-16-1992,19,Asphalt Concrete Overlay,2,,"66,0",,
+12,Florida,1370,08-01-1996,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+12,Florida,4154,01-01-1991,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+12,Florida,4154,05-15-1991,22,Manual Premix Spot Patch (hand spreading and compacting with roller),4,,,,
+12,Florida,4154,11-15-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+12,Florida,4154,09-15-1993,22,Manual Premix Spot Patch (hand spreading and compacting with roller),6,,,,
+12,Florida,4154,03-15-1995,22,Manual Premix Spot Patch (hand spreading and compacting with roller),7,,,,
+12,Florida,4154,04-15-1996,22,Manual Premix Spot Patch (hand spreading and compacting with roller),8,,,,
+12,Florida,4154,04-15-1996,23,Machine Premix Patch (placing premix with paver roller),8,,,,
+12,Florida,1370,09-15-1999,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",4,,,,
+12,Florida,1370,09-15-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+12,Florida,4154,06-15-1989,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+12,Florida,4106,11-15-2003,28,"Surface Treatment, Single Layer",2,,,,
+12,Florida,4135,06-16-1992,28,"Surface Treatment, Single Layer",3,,,,
+12,Florida,4136,06-16-1992,28,"Surface Treatment, Single Layer",3,,,,
+12,Florida,4137,06-16-1992,28,"Surface Treatment, Single Layer",3,,,,
+13,Georgia,4096,04-01-2001,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+13,Georgia,1031,05-31-1997,12,Grinding Surface,3,,,,
+13,Georgia,1001,06-15-1991,11,AC Shoulder Replacement,2,222,,2,Square Yards
+13,Georgia,1004,06-15-1990,11,AC Shoulder Replacement,2,40,,2,Square Yards
+13,Georgia,1005,06-15-1990,11,AC Shoulder Replacement,2,222,,2,Square Yards
+13,Georgia,4092,07-15-1990,11,AC Shoulder Replacement,2,222,"101,6",2,Square Yards
+13,Georgia,4093,07-15-1990,11,AC Shoulder Replacement,2,222,"101,6",2,Square Yards
+13,Georgia,4420,04-16-1989,11,AC Shoulder Replacement,2,222,"152,4",2,Square Yards
+13,Georgia,4096,04-01-2001,31,Aggregate Seal Coat,2,,,,
+13,Georgia,1031,09-15-1995,1,Crack Sealing,2,,,,
+13,Georgia,4420,10-14-1992,19,Asphalt Concrete Overlay,3,150,"38,1",2,Square Yards
+13,Georgia,4112,09-02-1998,19,Asphalt Concrete Overlay,3,,"45,7",,
+13,Georgia,4113,09-02-1998,19,Asphalt Concrete Overlay,3,,"45,7",,
+13,Georgia,4112,06-05-1990,21,Mechanical Premix Patch (using motor grader and roller),2,,,,
+13,Georgia,4113,06-05-1990,21,Mechanical Premix Patch (using motor grader and roller),2,,,,
+13,Georgia,4119,06-01-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+13,Georgia,1031,06-01-1997,28,"Surface Treatment, Single Layer",3,,,,
+16,Idaho,9034,06-01-2012,51,Mill Off AC and Overlay with AC ,3,667,"50,8",2,Square Yards
+16,Idaho,1001,04-01-1998,31,Aggregate Seal Coat,2,,,,
+16,Idaho,1005,08-10-1993,31,Aggregate Seal Coat,2,,,,
+16,Idaho,1007,08-07-1997,31,Aggregate Seal Coat,2,,,,
+16,Idaho,1009,10-20-1992,31,Aggregate Seal Coat,2,,,,
+16,Idaho,1020,07-01-2013,31,Aggregate Seal Coat,5,,,,
+16,Idaho,9032,08-22-1994,31,Aggregate Seal Coat,2,,,,
+16,Idaho,9034,07-01-2001,31,Aggregate Seal Coat,2,,,,
+16,Idaho,1020,04-14-1993,1,Crack Sealing,2,,,,
+16,Idaho,1007,08-07-1997,19,Asphalt Concrete Overlay,2,667,"88,9",2,Square Yards
+16,Idaho,1020,06-01-2011,19,Asphalt Concrete Overlay,4,667,"61,0",2,Square Yards
+16,Idaho,1001,07-01-2000,19,Asphalt Concrete Overlay,3,,,,
+16,Idaho,1010,03-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+16,Idaho,1020,08-01-2008,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+16,Idaho,9032,06-01-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+16,Idaho,1007,06-01-2007,28,"Surface Treatment, Single Layer",3,,,,
+72,Puerto Rico,1003,05-15-1996,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+72,Puerto Rico,4122,05-15-2002,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+81,Alberta,1804,08-01-1990,10,AC Shoulder Restoration,2,,,,
+81,Alberta,1803,08-09-1996,31,Aggregate Seal Coat,3,,,,
+81,Alberta,1804,06-01-1998,31,Aggregate Seal Coat,4,,,,
+81,Alberta,2812,08-18-1992,31,Aggregate Seal Coat,2,,,,
+81,Alberta,1803,05-15-1995,1,Crack Sealing,2,,,,
+81,Alberta,1803,07-01-2002,1,Crack Sealing,5,,,,
+81,Alberta,1803,05-01-2012,1,Crack Sealing,8,,,,
+81,Alberta,1804,07-01-2002,1,Crack Sealing,5,,,,
+81,Alberta,1804,06-01-2011,1,Crack Sealing,6,,,,
+81,Alberta,1804,10-01-1992,19,Asphalt Concrete Overlay,3,939,"99,1",2,Square Yards
+81,Alberta,1805,07-18-1995,19,Asphalt Concrete Overlay,2,1076,"210,8",2,Square Yards
+81,Alberta,1803,06-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+81,Alberta,1803,06-01-2004,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+81,Alberta,1803,08-01-2007,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",7,,,,
+81,Alberta,1803,05-01-2012,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",8,,,,
+81,Alberta,1805,05-01-2010,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+82,British Columbia,1005,07-01-1993,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+82,British Columbia,1005,07-01-1993,45,"Heater Scarification, Surface Recycled Asphalt Concrete",2,667,"50,8",2,Square Yards
+82,British Columbia,1005,07-01-1993,12,Grinding Surface,2,12,,2,Square Yards
+82,British Columbia,1005,07-21-1997,31,Aggregate Seal Coat,3,,,,
+82,British Columbia,9017,07-02-1994,1,Crack Sealing,2,,,,
+5,Arkansas,2042,05-04-1994,51,Mill Off AC and Overlay with AC ,3,666,"76,2",2,Square Yards
+5,Arkansas,3071,09-17-1996,33,Slurry Seal Coat,2,,,,
+5,Arkansas,3058,10-06-1995,19,Asphalt Concrete Overlay,2,667,"17,8",2,Square Yards
+5,Arkansas,2042,05-15-1993,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+6,California,7452,08-10-2010,51,Mill Off AC and Overlay with AC ,3,667,"30,5",2,Square Yards
+6,California,8150,08-01-2011,51,Mill Off AC and Overlay with AC ,5,667,"106,7",2,Square Yards
+6,California,8535,05-19-2016,51,Mill Off AC and Overlay with AC ,6,90816,"101,6",2,Square Yards
+6,California,7491,04-01-1998,51,Mill Off AC and Overlay with AC ,2,,"116,8",,
+6,California,7491,08-01-2013,51,Mill Off AC and Overlay with AC ,4,,"76,2",,
+6,California,8149,01-02-1993,51,Mill Off AC and Overlay with AC ,2,,"48,3",,
+6,California,8149,08-01-2013,51,Mill Off AC and Overlay with AC ,5,,"76,2",,
+6,California,8150,08-01-1999,12,Grinding Surface,3,,,,
+6,California,7452,08-10-2010,10,AC Shoulder Restoration,3,,"30,5",,
+6,California,8156,10-01-2001,31,Aggregate Seal Coat,3,,,,
+6,California,8535,03-01-1997,31,Aggregate Seal Coat,3,,,,
+6,California,8535,08-01-2008,31,Aggregate Seal Coat,5,,,,
+6,California,8535,05-19-2016,32,Sand Seal Coat,6,,,,
+6,California,8149,05-01-2008,33,Slurry Seal Coat,3,,,,
+6,California,2002,06-01-1992,1,Crack Sealing,2,,,,
+6,California,2002,06-01-1994,1,Crack Sealing,3,,,,
+6,California,2002,06-01-2013,1,Crack Sealing,7,,,,
+6,California,2038,10-01-2000,1,Crack Sealing,3,,,,
+6,California,2040,07-01-1993,1,Crack Sealing,2,,,,
+6,California,2053,06-01-2001,1,Crack Sealing,2,,,,
+6,California,7452,07-01-1999,1,Crack Sealing,2,,,,
+6,California,7491,08-01-2011,1,Crack Sealing,3,,,,
+6,California,8149,08-01-2011,1,Crack Sealing,4,,,,
+6,California,8150,08-01-1997,1,Crack Sealing,2,,,,
+6,California,8150,08-01-2010,1,Crack Sealing,4,,,,
+6,California,8202,08-01-2001,1,Crack Sealing,2,,,,
+6,California,8534,08-01-2008,1,Crack Sealing,5,,,,
+6,California,2002,10-01-1999,19,Asphalt Concrete Overlay,6,667,"88,9",2,Square Yards
+6,California,7454,05-01-2000,19,Asphalt Concrete Overlay,2,667,"45,7",2,Square Yards
+6,California,7491,08-01-2013,19,Asphalt Concrete Overlay,4,667,"33,0",2,Square Yards
+6,California,8149,08-01-2013,19,Asphalt Concrete Overlay,5,667,"27,9",2,Square Yards
+6,California,8150,08-01-1999,19,Asphalt Concrete Overlay,3,667,"25,4",2,Square Yards
+6,California,8150,08-01-2013,19,Asphalt Concrete Overlay,6,667,"25,4",2,Square Yards
+6,California,8153,08-23-1995,19,Asphalt Concrete Overlay,2,667,"25,4",2,Square Yards
+6,California,8156,06-08-2015,19,Asphalt Concrete Overlay,8,667,"30,5",2,Square Yards
+6,California,8534,07-08-1991,19,Asphalt Concrete Overlay,2,1333,"91,4",2,Square Yards
+6,California,8534,03-15-2001,19,Asphalt Concrete Overlay,4,667,"61,0",2,Square Yards
+6,California,8534,06-01-2010,19,Asphalt Concrete Overlay,6,667,"17,8",2,Square Yards
+6,California,8535,07-29-1991,19,Asphalt Concrete Overlay,2,1333,"76,2",2,Square Yards
+6,California,8535,04-09-2001,19,Asphalt Concrete Overlay,4,667,"61,0",2,Square Yards
+6,California,2038,08-01-2001,19,Asphalt Concrete Overlay,4,,,,
+6,California,2038,08-01-2010,19,Asphalt Concrete Overlay,5,,"17,8",,
+6,California,2040,07-01-1998,19,Asphalt Concrete Overlay,5,,"17,8",,
+6,California,2041,03-01-1996,19,Asphalt Concrete Overlay,3,,"86,4",,
+6,California,2051,01-01-1997,19,Asphalt Concrete Overlay,3,,,,
+6,California,7452,07-01-1999,19,Asphalt Concrete Overlay,2,,,,
+6,California,2040,07-01-1995,21,Mechanical Premix Patch (using motor grader and roller),3,,,,
+6,California,2038,10-01-2000,23,Machine Premix Patch (placing premix with paver roller),3,,,,
+6,California,7452,07-01-1999,23,Machine Premix Patch (placing premix with paver roller),2,,,,
+6,California,2002,07-01-1998,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",5,,,,
+6,California,8150,08-01-2010,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",4,,,,
+6,California,8156,08-01-2013,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",7,,,,
+6,California,8534,08-01-1998,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+6,California,2002,08-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+6,California,2038,03-01-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+6,California,2040,07-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+6,California,2040,06-01-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+6,California,2040,03-01-2003,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",7,,,,
+6,California,2041,07-01-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+6,California,2051,07-01-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+6,California,8150,08-01-2010,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+6,California,8153,07-01-2006,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+6,California,8153,05-01-2009,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+6,California,8156,06-01-1999,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+6,California,8156,10-01-2010,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+6,California,8156,08-01-2011,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+6,California,8156,06-01-2012,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+6,California,8153,06-01-2001,28,"Surface Treatment, Single Layer",3,,,,
+83,Manitoba,6450,05-01-2017,10,AC Shoulder Restoration,7,,,,
+83,Manitoba,6451,05-01-2017,10,AC Shoulder Restoration,7,,,,
+83,Manitoba,6450,06-01-2005,31,Aggregate Seal Coat,5,,,,
+83,Manitoba,6450,08-28-2009,31,Aggregate Seal Coat,6,,,,
+83,Manitoba,6451,06-01-2005,31,Aggregate Seal Coat,5,,,,
+83,Manitoba,6451,08-28-2009,31,Aggregate Seal Coat,6,,,,
+83,Manitoba,6454,09-18-1991,31,Aggregate Seal Coat,4,,,,
+83,Manitoba,6454,06-01-2007,31,Aggregate Seal Coat,14,,,,
+83,Manitoba,6454,05-26-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,12,667,"76,2",2,Square Yards
+83,Manitoba,6450,04-21-1993,1,Crack Sealing,3,,,,
+83,Manitoba,6450,07-16-2001,1,Crack Sealing,4,,,,
+83,Manitoba,6451,04-21-1993,1,Crack Sealing,3,,,,
+83,Manitoba,6451,07-16-2001,1,Crack Sealing,4,,,,
+83,Manitoba,6454,06-06-1990,1,Crack Sealing,2,,,,
+83,Manitoba,6454,08-31-1991,1,Crack Sealing,3,,,,
+83,Manitoba,6454,09-23-1992,1,Crack Sealing,5,,,,
+83,Manitoba,6454,06-30-1999,1,Crack Sealing,13,,,,
+83,Manitoba,6450,09-13-1989,19,Asphalt Concrete Overlay,2,450,"127,0",2,Square Yards
+83,Manitoba,6451,09-13-1989,19,Asphalt Concrete Overlay,2,225,"50,8",2,Square Yards
+83,Manitoba,6454,08-07-2012,22,Manual Premix Spot Patch (hand spreading and compacting with roller),15,,,,
+83,Manitoba,6454,06-06-1990,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+83,Manitoba,6454,03-22-1995,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",8,,,,
+83,Manitoba,6454,03-02-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+83,Manitoba,6454,10-20-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",7,,,,
+83,Manitoba,6454,06-19-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",9,,,,
+83,Manitoba,6454,05-27-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",10,,,,
+83,Manitoba,6454,09-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",11,,,,
+83,Manitoba,1801,06-15-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+83,Manitoba,1801,10-01-1996,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+83,Manitoba,1801,05-01-2000,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+83,Manitoba,1801,07-31-2001,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),5,,,,
+84,New Brunswick,1684,08-01-1999,11,AC Shoulder Replacement,3,167,"50,8",2,Square Yards
+84,New Brunswick,1684,08-28-1996,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"66,0",2,Square Yards
+84,New Brunswick,1684,09-05-1996,19,Asphalt Concrete Overlay,2,667,"48,3",2,Square Yards
+84,New Brunswick,1802,06-11-1998,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+85,Newfoundland,1803,08-06-1990,1,Crack Sealing,2,,,,
+87,Ontario,1620,08-06-1992,51,Mill Off AC and Overlay with AC ,2,667,"91,4",2,Square Yards
+87,Ontario,1680,10-01-1996,51,Mill Off AC and Overlay with AC ,2,667,"38,1",2,Square Yards
+87,Ontario,1680,07-01-2010,51,Mill Off AC and Overlay with AC ,4,667,"40,6",2,Square Yards
+87,Ontario,1806,07-04-1995,51,Mill Off AC and Overlay with AC ,2,667,"40,6",2,Square Yards
+87,Ontario,1806,07-01-2010,51,Mill Off AC and Overlay with AC ,4,667,"40,6",2,Square Yards
+87,Ontario,1680,09-13-2011,10,AC Shoulder Restoration,5,556,"40,6",2,Square Yards
+87,Ontario,1806,09-10-2011,10,AC Shoulder Restoration,5,556,"40,6",2,Square Yards
+87,Ontario,1620,10-01-2012,11,AC Shoulder Replacement,4,556,"185,4",2,Square Yards
+87,Ontario,1680,07-01-2010,11,AC Shoulder Replacement,4,556,"40,6",2,Square Yards
+87,Ontario,1806,07-01-2010,11,AC Shoulder Replacement,4,556,"40,6",2,Square Yards
+87,Ontario,1620,09-02-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"88,9",2,Square Yards
+87,Ontario,1620,10-01-2012,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,4,674,"149,9",2,Square Yards
+87,Ontario,1622,07-16-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"88,9",2,Square Yards
+87,Ontario,1680,09-13-2011,19,Asphalt Concrete Overlay,5,667,"40,6",2,Square Yards
+87,Ontario,1806,09-10-2011,19,Asphalt Concrete Overlay,5,667,"40,6",2,Square Yards
+87,Ontario,1680,06-01-2008,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),3,,,,
+87,Ontario,1806,09-27-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+88,Prince Edward Island,1646,09-11-1990,1,Crack Sealing,2,,,,
+88,Prince Edward Island,1646,07-18-1991,1,Crack Sealing,3,,,,
+88,Prince Edward Island,1646,08-22-1995,1,Crack Sealing,4,,,,
+88,Prince Edward Island,1647,09-11-1990,1,Crack Sealing,2,,,,
+88,Prince Edward Island,1647,08-28-1991,1,Crack Sealing,3,,,,
+88,Prince Edward Island,1647,08-22-1995,1,Crack Sealing,4,,,,
+88,Prince Edward Island,1645,06-01-2010,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+88,Prince Edward Island,1646,06-01-1998,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+88,Prince Edward Island,1646,06-01-2004,22,Manual Premix Spot Patch (hand spreading and compacting with roller),6,,,,
+88,Prince Edward Island,1647,07-01-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+88,Prince Edward Island,1647,06-01-2003,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+88,Prince Edward Island,1647,06-01-2004,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",7,,,,
+89,Quebec,1021,08-21-1995,10,AC Shoulder Restoration,3,550,"152,4",2,Square Yards
+89,Quebec,1021,06-01-2009,1,Crack Sealing,4,,,,
+89,Quebec,1021,08-21-1995,19,Asphalt Concrete Overlay,3,667,"152,4",2,Square Yards
+89,Quebec,1021,09-01-2011,19,Asphalt Concrete Overlay,5,667,"50,8",2,Square Yards
+89,Quebec,1125,06-28-1996,19,Asphalt Concrete Overlay,2,667,"48,3",2,Square Yards
+89,Quebec,1127,08-03-1994,19,Asphalt Concrete Overlay,3,512,"53,3",2,Square Yards
+89,Quebec,1127,06-01-1994,21,Mechanical Premix Patch (using motor grader and roller),2,,,,
+89,Quebec,2011,04-01-2003,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),3,,,,
+89,Quebec,1021,08-15-2011,23,Machine Premix Patch (placing premix with paver roller),5,,,,
+89,Quebec,1021,06-01-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+89,Quebec,2011,07-01-2001,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+90,Saskatchewan,6410,10-01-2001,10,AC Shoulder Restoration,4,556,"25,4",2,Square Yards
+90,Saskatchewan,6412,10-01-2001,10,AC Shoulder Restoration,3,556,"25,4",2,Square Yards
+90,Saskatchewan,6420,09-07-1995,31,Aggregate Seal Coat,5,,,,
+90,Saskatchewan,6420,05-27-1996,31,Aggregate Seal Coat,6,,,,
+90,Saskatchewan,6405,09-16-2002,1,Crack Sealing,6,,,,
+90,Saskatchewan,6405,05-25-2000,19,Asphalt Concrete Overlay,5,667,"83,8",2,Square Yards
+90,Saskatchewan,6410,05-28-1990,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+90,Saskatchewan,6412,05-28-1990,19,Asphalt Concrete Overlay,2,667,"101,6",2,Square Yards
+90,Saskatchewan,6420,07-06-1997,19,Asphalt Concrete Overlay,7,622,"91,4",2,Square Yards
+90,Saskatchewan,6405,06-01-1997,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+90,Saskatchewan,6410,08-01-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+90,Saskatchewan,6410,08-01-2003,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+90,Saskatchewan,6412,06-01-2002,22,Manual Premix Spot Patch (hand spreading and compacting with roller),4,,,,
+90,Saskatchewan,6420,04-20-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+90,Saskatchewan,6420,09-07-1995,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+90,Saskatchewan,6420,04-21-1993,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+90,Saskatchewan,6405,07-27-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+90,Saskatchewan,6405,09-01-1997,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+90,Saskatchewan,6420,06-21-1993,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+8,Colorado,1053,06-25-2001,45,"Heater Scarification, Surface Recycled Asphalt Concrete",2,667,"50,8",2,Square Yards
+8,Colorado,7781,08-01-2011,51,Mill Off AC and Overlay with AC ,5,,,,
+8,Colorado,1053,06-28-2001,10,AC Shoulder Restoration,2,778,"50,8",2,Square Yards
+8,Colorado,1029,08-01-2011,31,Aggregate Seal Coat,6,,,,
+8,Colorado,1057,08-13-1993,31,Aggregate Seal Coat,2,,,,
+8,Colorado,7781,08-01-2004,31,Aggregate Seal Coat,4,,,,
+8,Colorado,7781,09-16-2016,31,Aggregate Seal Coat,6,,,,
+8,Colorado,1029,06-09-2003,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,5,667,"50,8",2,Square Yards
+8,Colorado,1029,08-19-2003,19,Asphalt Concrete Overlay,5,667,"50,8",2,Square Yards
+8,Colorado,1053,06-28-2001,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+8,Colorado,1047,08-25-1992,19,Asphalt Concrete Overlay,2,,"71,1",,
+8,Colorado,7781,06-01-1991,19,Asphalt Concrete Overlay,2,,"55,9",,
+8,Colorado,2008,08-01-1993,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),2,,,,
+8,Colorado,1029,06-01-1995,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+8,Colorado,1029,08-01-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+8,Colorado,7781,08-01-1997,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+8,Colorado,1029,10-16-1995,28,"Surface Treatment, Single Layer",3,,,,
+9,Connecticut,1803,06-21-2000,10,AC Shoulder Restoration,4,222,"50,8",2,Square Yards
+9,Connecticut,1803,01-18-1995,1,Crack Sealing,2,,,,
+9,Connecticut,1803,07-25-1996,1,Crack Sealing,3,,,,
+9,Connecticut,1803,06-21-2000,19,Asphalt Concrete Overlay,4,667,"50,8",2,Square Yards
+9,Connecticut,1803,06-21-2000,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",4,,,,
+10,Delaware,1450,10-27-1998,43,Hot-Mix Recycled Asphalt Concrete Overlay,3,667,"76,2",2,Square Yards
+10,Delaware,1450,10-27-1998,10,AC Shoulder Restoration,3,556,"50,8",2,Square Yards
+10,Delaware,1450,09-01-2011,10,AC Shoulder Restoration,6,556,"50,8",2,Square Yards
+10,Delaware,1450,06-01-1998,1,Crack Sealing,2,,,,
+10,Delaware,1450,02-01-2008,1,Crack Sealing,4,,,,
+10,Delaware,1450,09-01-2011,19,Asphalt Concrete Overlay,6,667,"50,8",2,Square Yards
+10,Delaware,1450,06-01-2010,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+11,District of Columbia,1400,04-01-1990,51,Mill Off AC and Overlay with AC ,2,667,"152,4",2,Square Yards
+29,Missouri,1010,10-10-1998,51,Mill Off AC and Overlay with AC ,2,667,"144,8",2,Square Yards
+29,Missouri,1010,10-10-1998,10,AC Shoulder Restoration,2,889,"147,3",2,Square Yards
+29,Missouri,1002,03-18-2000,1,Crack Sealing,2,,,,
+29,Missouri,1002,03-14-2001,1,Crack Sealing,3,,,,
+29,Missouri,1002,02-04-2002,1,Crack Sealing,4,,,,
+29,Missouri,1008,04-01-1997,1,Crack Sealing,2,,,,
+29,Missouri,5403,06-01-2000,1,Crack Sealing,4,,,,
+29,Missouri,5413,09-16-1989,19,Asphalt Concrete Overlay,2,667,"45,7",2,Square Yards
+29,Missouri,5403,09-16-1989,19,Asphalt Concrete Overlay,2,,"45,7",,
+29,Missouri,5403,06-01-1998,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+29,Missouri,5403,06-01-2000,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),4,,,,
+30,Montana,7066,05-08-2001,51,Mill Off AC and Overlay with AC ,3,667,"61,0",2,Square Yards
+30,Montana,7076,09-06-2001,51,Mill Off AC and Overlay with AC ,4,667,"61,0",2,Square Yards
+30,Montana,7076,10-21-2013,51,Mill Off AC and Overlay with AC ,7,667,"61,0",2,Square Yards
+30,Montana,7066,09-13-1991,51,Mill Off AC and Overlay with AC ,2,,"121,9",,
+30,Montana,7076,06-07-1991,51,Mill Off AC and Overlay with AC ,2,,"61,0",,
+30,Montana,7088,05-08-2001,51,Mill Off AC and Overlay with AC ,3,,"61,0",,
+30,Montana,8129,06-01-2003,11,AC Shoulder Replacement,2,111,"76,2",2,Square Yards
+30,Montana,7066,06-01-2001,31,Aggregate Seal Coat,3,,,,
+30,Montana,7076,08-05-1995,31,Aggregate Seal Coat,3,,,,
+30,Montana,7076,06-01-2002,31,Aggregate Seal Coat,5,,,,
+30,Montana,7076,08-01-2013,31,Aggregate Seal Coat,7,,,,
+30,Montana,7088,06-01-2001,31,Aggregate Seal Coat,3,,,,
+30,Montana,8129,06-02-2003,31,Aggregate Seal Coat,2,,,,
+30,Montana,7066,08-01-2008,1,Crack Sealing,4,,,,
+30,Montana,7076,06-01-2005,1,Crack Sealing,6,,,,
+30,Montana,7088,08-01-2008,1,Crack Sealing,4,,,,
+30,Montana,8129,06-15-2013,1,Crack Sealing,3,,,,
+30,Montana,8129,06-01-2003,19,Asphalt Concrete Overlay,2,667,"96,5",2,Square Yards
+30,Montana,7088,09-04-1991,19,Asphalt Concrete Overlay,2,,"121,9",,
+31,Nebraska,1030,08-07-1996,31,Aggregate Seal Coat,3,,,,
+31,Nebraska,1030,09-09-1988,34,Fog Seal Coat,2,,,,
+31,Nebraska,6700,08-01-1997,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,5,667,"50,8",2,Square Yards
+31,Nebraska,6700,08-01-1991,1,Crack Sealing,3,,,,
+31,Nebraska,6700,08-01-1994,1,Crack Sealing,4,,,,
+31,Nebraska,6700,03-19-1999,1,Crack Sealing,6,,,,
+31,Nebraska,6700,01-25-2001,1,Crack Sealing,7,,,,
+31,Nebraska,6700,10-29-1988,19,Asphalt Concrete Overlay,2,667,"114,3",2,Square Yards
+31,Nebraska,6700,09-04-2002,28,"Surface Treatment, Single Layer",8,,,,
+32,Nevada,1020,09-11-2000,51,Mill Off AC and Overlay with AC ,4,667,"71,1",2,Square Yards
+32,Nevada,1020,05-14-2012,51,Mill Off AC and Overlay with AC ,6,,"99,1",,
+32,Nevada,2027,06-01-1993,12,Grinding Surface,3,,,,
+32,Nevada,1020,06-01-2015,31,Aggregate Seal Coat,7,,,,
+32,Nevada,2027,08-01-1991,31,Aggregate Seal Coat,2,,,,
+32,Nevada,1020,05-30-2007,34,Fog Seal Coat,5,,,,
+32,Nevada,1020,06-01-1996,1,Crack Sealing,2,,,,
+32,Nevada,1020,04-21-1999,1,Crack Sealing,3,,,,
+32,Nevada,1030,09-15-1992,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+32,Nevada,1030,09-16-1992,19,Asphalt Concrete Overlay,2,667,"17,8",2,Square Yards
+32,Nevada,1020,08-08-2012,19,Asphalt Concrete Overlay,6,,"20,3",,
+32,Nevada,1021,06-01-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+32,Nevada,2027,06-01-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+32,Nevada,2027,07-01-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+32,Nevada,7000,06-01-1995,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+32,Nevada,2027,07-01-1996,28,"Surface Treatment, Single Layer",4,,,,
+33,New Hampshire,1001,09-01-2003,51,Mill Off AC and Overlay with AC ,4,667,"88,9",2,Square Yards
+33,New Hampshire,1001,08-31-2009,31,Aggregate Seal Coat,6,,,,
+33,New Hampshire,1001,08-01-2007,1,Crack Sealing,5,,,,
+33,New Hampshire,1001,07-01-2016,19,Asphalt Concrete Overlay,7,,"38,1",,
+33,New Hampshire,1001,08-01-2001,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+33,New Hampshire,1001,04-15-2002,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+34,New Jersey,1003,04-15-1994,51,Mill Off AC and Overlay with AC ,2,667,"50,8",2,Square Yards
+34,New Jersey,1011,04-29-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"63,5",2,Square Yards
+34,New Jersey,1030,08-27-1997,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"50,8",2,Square Yards
+34,New Jersey,1031,05-14-1996,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"76,2",2,Square Yards
+34,New Jersey,1033,09-24-1997,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"50,8",2,Square Yards
+34,New Jersey,1030,02-25-1991,1,Crack Sealing,2,,,,
+34,New Jersey,1033,06-01-2011,1,Crack Sealing,5,,,,
+34,New Jersey,1011,06-30-1998,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+34,New Jersey,1030,09-18-1997,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+34,New Jersey,1031,05-14-1996,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+34,New Jersey,1003,09-01-2001,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+34,New Jersey,1003,08-01-2002,22,Manual Premix Spot Patch (hand spreading and compacting with roller),4,,,,
+34,New Jersey,1003,09-01-2004,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+34,New Jersey,1003,08-01-2005,22,Manual Premix Spot Patch (hand spreading and compacting with roller),6,,,,
+34,New Jersey,1030,06-01-2006,22,Manual Premix Spot Patch (hand spreading and compacting with roller),5,,,,
+34,New Jersey,1034,06-01-2004,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+34,New Jersey,1034,06-01-2006,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+34,New Jersey,1030,08-01-2005,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+34,New Jersey,1033,06-01-2008,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+34,New Jersey,1033,09-04-2003,28,"Surface Treatment, Single Layer",3,,,,
+1,Alabama,4127,06-20-1989,31,Aggregate Seal Coat,2,,,,
+1,Alabama,1019,06-08-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"35,6",2,Square Yards
+1,Alabama,4155,04-01-1999,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"119,4",2,Square Yards
+1,Alabama,1001,06-02-1993,19,Asphalt Concrete Overlay,2,,"66,0",,
+1,Alabama,4127,06-23-1989,19,Asphalt Concrete Overlay,2,,"43,2",,
+1,Alabama,4129,06-02-1989,19,Asphalt Concrete Overlay,2,,"38,1",,
+1,Alabama,1011,05-15-2000,23,Machine Premix Patch (placing premix with paver roller),2,,,,
+1,Alabama,4073,05-15-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+2,Alaska,1001,07-01-1999,1,Crack Sealing,4,,,,
+2,Alaska,1004,06-01-1999,1,Crack Sealing,3,,,,
+2,Alaska,9035,07-01-1996,1,Crack Sealing,3,,,,
+2,Alaska,9035,07-01-2001,1,Crack Sealing,4,,,,
+2,Alaska,1002,06-20-1998,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+2,Alaska,1004,06-02-1991,19,Asphalt Concrete Overlay,2,667,"45,7",2,Square Yards
+2,Alaska,9035,08-01-1990,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+2,Alaska,1001,07-01-1993,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+2,Alaska,1001,06-01-1994,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+2,Alaska,1001,06-25-1999,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+2,Alaska,9035,06-01-2016,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+17,Illinois,1002,06-01-1991,3,Lane-Shoulder Longitudinal Joint Sealing,2,,,,
+17,Illinois,1002,08-01-1996,3,Lane-Shoulder Longitudinal Joint Sealing,3,,,,
+18,Indiana,1037,09-15-1994,51,Mill Off AC and Overlay with AC ,2,667,"25,4",2,Square Yards
+18,Indiana,2008,10-01-2016,51,Mill Off AC and Overlay with AC ,5,667,"38,1",2,Square Yards
+18,Indiana,2008,06-01-1994,10,AC Shoulder Restoration,3,667,"25,4",2,Square Yards
+18,Indiana,2008,06-01-1989,32,Sand Seal Coat,2,,,,
+18,Indiana,1028,06-23-1995,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"152,4",2,Square Yards
+18,Indiana,1037,06-01-2000,1,Crack Sealing,3,,,,
+18,Indiana,1037,06-01-2014,1,Crack Sealing,5,,,,
+18,Indiana,1037,05-05-2003,19,Asphalt Concrete Overlay,4,667,"25,4",2,Square Yards
+18,Indiana,2008,06-01-1994,19,Asphalt Concrete Overlay,3,667,"25,4",2,Square Yards
+18,Indiana,2008,11-03-2003,19,Asphalt Concrete Overlay,4,667,"38,1",2,Square Yards
+19,Iowa,1044,09-01-2002,10,AC Shoulder Restoration,5,1111,"50,8",2,Square Yards
+19,Iowa,1044,10-17-1995,34,Fog Seal Coat,4,,,,
+19,Iowa,1044,02-21-1992,1,Crack Sealing,2,,,,
+19,Iowa,1044,09-27-1995,1,Crack Sealing,3,,,,
+19,Iowa,1044,01-01-2007,1,Crack Sealing,6,,,,
+19,Iowa,1044,01-01-2012,1,Crack Sealing,7,,,,
+19,Iowa,1044,09-01-2002,19,Asphalt Concrete Overlay,5,667,"88,9",2,Square Yards
+19,Iowa,1044,08-12-1995,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+19,Iowa,1044,02-21-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+20,Kansas,1009,10-18-1995,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"114,3",2,Square Yards
+20,Kansas,1005,11-02-2000,51,Mill Off AC and Overlay with AC ,3,667,"25,4",2,Square Yards
+20,Kansas,1005,10-15-2010,51,Mill Off AC and Overlay with AC ,4,667,"50,8",2,Square Yards
+20,Kansas,1009,08-26-1995,51,Mill Off AC and Overlay with AC ,2,667,"76,2",2,Square Yards
+20,Kansas,1005,11-12-2000,10,AC Shoulder Restoration,3,333,"203,2",2,Square Yards
+20,Kansas,1009,09-11-1995,10,AC Shoulder Restoration,2,556,"215,9",2,Square Yards
+20,Kansas,1009,07-19-2000,33,Slurry Seal Coat,3,,,,
+20,Kansas,1009,11-12-1995,19,Asphalt Concrete Overlay,2,667,"25,4",2,Square Yards
+20,Kansas,1010,06-01-1995,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+20,Kansas,1005,06-01-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+20,Kansas,1010,06-01-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+21,Kentucky,1034,08-20-1993,51,Mill Off AC and Overlay with AC ,2,,"25,4",,
+21,Kentucky,1014,06-01-1994,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+21,Kentucky,1010,08-09-1989,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+21,Kentucky,1014,07-20-1989,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+21,Kentucky,1014,10-01-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+21,Kentucky,1010,10-18-1994,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+51,Virginia,1417,08-20-2002,43,Hot-Mix Recycled Asphalt Concrete Overlay,5,667,"38,1",2,Square Yards
+51,Virginia,1419,11-01-2012,43,Hot-Mix Recycled Asphalt Concrete Overlay,5,667,"38,1",2,Square Yards
+51,Virginia,2004,06-08-1998,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+51,Virginia,1023,10-30-1997,51,Mill Off AC and Overlay with AC ,2,667,"38,1",2,Square Yards
+51,Virginia,1464,08-30-1997,51,Mill Off AC and Overlay with AC ,2,667,"38,1",2,Square Yards
+51,Virginia,1417,08-20-2002,10,AC Shoulder Restoration,5,333,"38,1",2,Square Yards
+51,Virginia,1002,05-15-1990,19,Asphalt Concrete Overlay,2,667,"55,9",2,Square Yards
+51,Virginia,1002,05-04-1999,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+51,Virginia,1417,09-14-1990,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+51,Virginia,1417,05-20-1998,19,Asphalt Concrete Overlay,4,667,"38,1",2,Square Yards
+51,Virginia,1419,09-20-1989,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+51,Virginia,1419,08-30-1997,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+51,Virginia,1423,10-08-1989,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+51,Virginia,1423,08-17-1999,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+51,Virginia,2021,10-25-1995,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+51,Virginia,2021,06-01-1999,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+51,Virginia,2004,06-01-2004,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),3,,,,
+51,Virginia,1417,04-01-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+51,Virginia,1419,06-01-2009,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+53,Washington,1005,10-01-2001,51,Mill Off AC and Overlay with AC ,3,667,"63,5",2,Square Yards
+53,Washington,1002,08-01-2008,31,Aggregate Seal Coat,2,,,,
+53,Washington,1005,06-01-2016,31,Aggregate Seal Coat,6,,,,
+53,Washington,1006,07-23-1997,31,Aggregate Seal Coat,2,,,,
+53,Washington,1006,05-23-2000,31,Aggregate Seal Coat,3,,,,
+53,Washington,1006,08-01-2007,31,Aggregate Seal Coat,4,,,,
+53,Washington,1007,06-15-1995,31,Aggregate Seal Coat,3,,,,
+53,Washington,1007,06-03-2016,31,Aggregate Seal Coat,5,,,,
+53,Washington,1005,06-01-2016,1,Crack Sealing,6,,,,
+53,Washington,1801,06-01-1993,1,Crack Sealing,2,,,,
+53,Washington,1005,07-01-1989,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+53,Washington,1007,06-25-1991,19,Asphalt Concrete Overlay,2,14300,"91,4",2,Square Yards
+53,Washington,1007,08-22-2002,19,Asphalt Concrete Overlay,4,667,"61,0",2,Square Yards
+53,Washington,1008,07-26-1994,19,Asphalt Concrete Overlay,3,5278,"50,8",2,Square Yards
+53,Washington,1007,07-12-2002,56,Mill Existing Pavement and Overlay with Cold-Mix Recycled AC,4,667,"91,4",2,Square Yards
+53,Washington,1005,08-01-2008,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+53,Washington,1005,06-01-2013,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+53,Washington,1005,06-01-2016,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+53,Washington,1008,06-01-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+53,Washington,1801,06-01-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+53,Washington,1801,08-01-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+54,West Virginia,1640,08-16-2001,51,Mill Off AC and Overlay with AC ,3,667,"25,4",2,Square Yards
+54,West Virginia,1640,08-16-2001,11,AC Shoulder Replacement,3,444,"25,4",2,Square Yards
+54,West Virginia,1640,06-01-2019,1,Crack Sealing,5,,,,
+54,West Virginia,1640,08-15-1991,19,Asphalt Concrete Overlay,2,667,"152,4",2,Square Yards
+54,West Virginia,1640,06-01-2014,23,Machine Premix Patch (placing premix with paver roller),4,,,,
+54,West Virginia,1640,06-01-2019,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+56,Wyoming,2020,10-01-1998,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,693,"45,7",2,Square Yards
+56,Wyoming,1007,04-02-1998,31,Aggregate Seal Coat,3,,,,
+56,Wyoming,2017,08-27-1999,31,Aggregate Seal Coat,2,,,,
+56,Wyoming,2017,06-01-2014,31,Aggregate Seal Coat,6,,,,
+56,Wyoming,2019,08-30-1997,31,Aggregate Seal Coat,3,,,,
+56,Wyoming,2020,07-27-1999,31,Aggregate Seal Coat,3,,,,
+56,Wyoming,7772,08-01-1992,31,Aggregate Seal Coat,3,,,,
+56,Wyoming,7772,06-24-1998,31,Aggregate Seal Coat,5,,,,
+56,Wyoming,7772,06-01-2013,31,Aggregate Seal Coat,7,,,,
+56,Wyoming,7772,06-01-2014,31,Aggregate Seal Coat,8,,,,
+56,Wyoming,7773,07-15-1999,31,Aggregate Seal Coat,4,,,,
+56,Wyoming,7773,08-01-2007,31,Aggregate Seal Coat,5,,,,
+56,Wyoming,7773,08-01-2009,31,Aggregate Seal Coat,6,,,,
+56,Wyoming,7773,06-01-2014,31,Aggregate Seal Coat,7,,,,
+56,Wyoming,7775,08-01-2003,31,Aggregate Seal Coat,3,,,,
+56,Wyoming,7775,06-12-2012,31,Aggregate Seal Coat,6,,,,
+56,Wyoming,7775,06-21-2002,34,Fog Seal Coat,2,,,,
+56,Wyoming,2020,05-20-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,693,"45,7",2,Square Yards
+56,Wyoming,1007,06-01-1990,1,Crack Sealing,2,,,,
+56,Wyoming,2017,04-27-2012,1,Crack Sealing,4,,,,
+56,Wyoming,2017,06-11-2018,1,Crack Sealing,7,,,,
+56,Wyoming,2020,06-01-2010,1,Crack Sealing,4,,,,
+56,Wyoming,2037,08-01-1997,1,Crack Sealing,2,,,,
+56,Wyoming,7772,07-03-1991,1,Crack Sealing,2,,,,
+56,Wyoming,7772,06-01-2003,1,Crack Sealing,6,,,,
+56,Wyoming,7772,06-01-2013,1,Crack Sealing,7,,,,
+56,Wyoming,7773,05-08-1997,1,Crack Sealing,2,,,,
+56,Wyoming,7773,10-29-1997,1,Crack Sealing,3,,,,
+56,Wyoming,2017,06-21-1999,19,Asphalt Concrete Overlay,2,674,"50,8",2,Square Yards
+56,Wyoming,2017,06-04-2013,19,Asphalt Concrete Overlay,5,667,"50,8",2,Square Yards
+56,Wyoming,2019,09-26-1996,19,Asphalt Concrete Overlay,2,1194,"76,2",2,Square Yards
+56,Wyoming,2020,10-01-1998,19,Asphalt Concrete Overlay,2,693,"33,0",2,Square Yards
+56,Wyoming,7772,06-16-1998,19,Asphalt Concrete Overlay,5,1140,"66,0",2,Square Yards
+56,Wyoming,7775,06-21-2002,19,Asphalt Concrete Overlay,2,889,"25,4",2,Square Yards
+56,Wyoming,7775,10-18-2010,19,Asphalt Concrete Overlay,5,667,"38,1",2,Square Yards
+56,Wyoming,2015,06-01-2004,19,Asphalt Concrete Overlay,2,,"38,1",,
+56,Wyoming,2015,07-01-2006,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+56,Wyoming,7775,08-01-2007,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+56,Wyoming,2017,07-28-2010,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+56,Wyoming,1007,09-01-1999,28,"Surface Treatment, Single Layer",4,,,,
+56,Wyoming,7772,01-01-1995,28,"Surface Treatment, Single Layer",4,,,,
+35,New Mexico,2118,04-10-2002,51,Mill Off AC and Overlay with AC ,2,667,"165,1",2,Square Yards
+35,New Mexico,1005,09-15-2004,1,Crack Sealing,3,,,,
+35,New Mexico,1003,06-15-1998,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+35,New Mexico,1005,06-15-1998,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+36,New York,1644,07-25-1996,51,Mill Off AC and Overlay with AC ,2,667,"76,2",2,Square Yards
+36,New York,1011,09-15-1993,10,AC Shoulder Restoration,2,778,"76,2",2,Square Yards
+36,New York,1643,09-17-1996,10,AC Shoulder Restoration,6,556,"38,1",2,Square Yards
+36,New York,1644,07-25-1996,10,AC Shoulder Restoration,2,389,"38,1",2,Square Yards
+36,New York,1643,10-13-1989,1,Crack Sealing,2,,,,
+36,New York,1644,06-01-1999,1,Crack Sealing,3,,,,
+36,New York,1008,08-26-1989,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+36,New York,1011,09-15-1993,19,Asphalt Concrete Overlay,2,667,"101,6",2,Square Yards
+36,New York,1643,09-16-1996,19,Asphalt Concrete Overlay,6,667,"63,5",2,Square Yards
+36,New York,1643,06-01-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+36,New York,1644,06-20-1996,38,Longitudinal Subdrains,2,500,,1,Feet
+36,New York,1643,09-05-1995,23,Machine Premix Patch (placing premix with paver roller),4,,,,
+36,New York,1643,09-11-1995,23,Machine Premix Patch (placing premix with paver roller),5,,,,
+37,North Carolina,1814,07-18-2000,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+37,North Carolina,1817,11-19-1995,43,Hot-Mix Recycled Asphalt Concrete Overlay,4,667,"38,1",2,Square Yards
+37,North Carolina,1992,09-02-1996,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"210,8",2,Square Yards
+37,North Carolina,2819,09-18-1992,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+37,North Carolina,2824,09-18-1991,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+37,North Carolina,1352,07-11-2003,43,Hot-Mix Recycled Asphalt Concrete Overlay,3,667,"76,2",2,Square Yards
+37,North Carolina,1803,08-01-1990,51,Mill Off AC and Overlay with AC ,2,667,"25,4",2,Square Yards
+37,North Carolina,1814,07-18-2000,51,Mill Off AC and Overlay with AC ,2,667,"38,1",2,Square Yards
+37,North Carolina,1024,11-10-1992,51,Mill Off AC and Overlay with AC ,2,667,"139,7",2,Square Yards
+37,North Carolina,1028,09-02-2002,51,Mill Off AC and Overlay with AC ,2,667,"50,8",2,Square Yards
+37,North Carolina,1352,10-30-1989,51,Mill Off AC and Overlay with AC ,2,667,"50,8",2,Square Yards
+37,North Carolina,1645,08-07-2013,10,AC Shoulder Restoration,4,333,"38,1",2,Square Yards
+37,North Carolina,1801,09-20-1996,10,AC Shoulder Restoration,2,556,"127,0",2,Square Yards
+37,North Carolina,1801,04-13-2010,10,AC Shoulder Restoration,5,556,"76,2",2,Square Yards
+37,North Carolina,1992,10-22-2011,10,AC Shoulder Restoration,3,222,"76,2",2,Square Yards
+37,North Carolina,2825,06-01-2011,10,AC Shoulder Restoration,2,111,"50,8",2,Square Yards
+37,North Carolina,1817,10-08-2002,11,AC Shoulder Replacement,5,667,"114,3",2,Square Yards
+37,North Carolina,1352,07-11-2003,11,AC Shoulder Replacement,3,217,"76,2",2,Square Yards
+37,North Carolina,2819,06-10-1992,31,Aggregate Seal Coat,2,,,,
+37,North Carolina,1645,05-16-2000,33,Slurry Seal Coat,3,,,,
+37,North Carolina,1817,11-15-1990,33,Slurry Seal Coat,2,,,,
+37,North Carolina,1006,08-28-1991,33,Slurry Seal Coat,2,,,,
+37,North Carolina,1645,08-07-2013,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,4,667,"38,1",2,Square Yards
+37,North Carolina,1801,09-20-1996,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"88,9",2,Square Yards
+37,North Carolina,1801,04-13-2010,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,5,667,"76,2",2,Square Yards
+37,North Carolina,1992,10-22-2011,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"76,2",2,Square Yards
+37,North Carolina,2819,06-01-2013,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,4,667,"50,8",2,Square Yards
+37,North Carolina,2825,06-01-2011,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"50,8",2,Square Yards
+37,North Carolina,1006,10-09-1994,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,3,667,"83,8",2,Square Yards
+37,North Carolina,1801,06-01-2002,1,Crack Sealing,3,,,,
+37,North Carolina,1803,01-01-2019,1,Crack Sealing,4,,,,
+37,North Carolina,1814,06-01-2014,1,Crack Sealing,3,,,,
+37,North Carolina,1992,01-01-2019,1,Crack Sealing,4,,,,
+37,North Carolina,2824,01-01-2019,1,Crack Sealing,4,,,,
+37,North Carolina,1352,06-01-2013,1,Crack Sealing,4,,,,
+37,North Carolina,1645,05-16-2000,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+37,North Carolina,1801,09-20-1996,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+37,North Carolina,1802,05-01-1996,19,Asphalt Concrete Overlay,3,667,"30,5",2,Square Yards
+37,North Carolina,1803,05-02-2000,19,Asphalt Concrete Overlay,3,667,"38,1",2,Square Yards
+37,North Carolina,1814,07-18-2000,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+37,North Carolina,1817,10-08-2002,19,Asphalt Concrete Overlay,5,667,"114,3",2,Square Yards
+37,North Carolina,2819,06-02-2002,19,Asphalt Concrete Overlay,3,667,"76,2",2,Square Yards
+37,North Carolina,2824,07-14-2003,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+37,North Carolina,1040,06-21-1995,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+37,North Carolina,1645,06-01-1999,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+37,North Carolina,1817,11-15-1990,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),2,,,,
+37,North Carolina,1006,08-28-1991,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),2,,,,
+37,North Carolina,1817,05-05-1994,23,Machine Premix Patch (placing premix with paver roller),3,,,,
+37,North Carolina,1352,07-11-2003,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+37,North Carolina,1802,07-01-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+37,North Carolina,1802,04-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+37,North Carolina,1817,06-01-2014,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+37,North Carolina,1801,06-01-2007,28,"Surface Treatment, Single Layer",4,,,,
+38,North Dakota,2001,08-17-1990,31,Aggregate Seal Coat,2,,,,
+40,Oklahoma,4154,08-15-2013,51,Mill Off AC and Overlay with AC ,3,667,"63,5",2,Square Yards
+40,Oklahoma,4163,08-18-1999,51,Mill Off AC and Overlay with AC ,6,667,"38,1",2,Square Yards
+40,Oklahoma,4154,08-15-2013,10,AC Shoulder Restoration,3,778,"2,5",2,Square Yards
+40,Oklahoma,4086,08-04-1989,34,Fog Seal Coat,2,,,,
+40,Oklahoma,4163,10-21-1992,34,Fog Seal Coat,2,,,,
+40,Oklahoma,4163,10-04-1993,34,Fog Seal Coat,3,,,,
+40,Oklahoma,4163,09-28-1995,34,Fog Seal Coat,4,,,,
+40,Oklahoma,4163,04-20-1998,34,Fog Seal Coat,5,,,,
+40,Oklahoma,4086,08-04-1989,1,Crack Sealing,2,,,,
+40,Oklahoma,4086,09-15-1998,1,Crack Sealing,3,,,,
+40,Oklahoma,4164,03-15-2007,1,Crack Sealing,3,,,,
+40,Oklahoma,4086,08-04-1989,19,Asphalt Concrete Overlay,2,667,"33,0",2,Square Yards
+40,Oklahoma,4086,06-21-2002,19,Asphalt Concrete Overlay,4,667,"50,8",2,Square Yards
+40,Oklahoma,4087,09-17-1997,19,Asphalt Concrete Overlay,2,667,"63,5",2,Square Yards
+40,Oklahoma,4154,08-15-2000,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+40,Oklahoma,4161,07-14-1989,19,Asphalt Concrete Overlay,2,667,"12,7",2,Square Yards
+40,Oklahoma,4164,08-26-1994,19,Asphalt Concrete Overlay,2,667,"22,9",2,Square Yards
+40,Oklahoma,4088,05-15-1993,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+41,Oregon,2002,08-28-1993,51,Mill Off AC and Overlay with AC ,2,666,"50,8",2,Square Yards
+41,Oregon,2002,08-28-1993,19,Asphalt Concrete Overlay,2,666,"50,8",2,Square Yards
+41,Oregon,2002,09-19-1993,19,Asphalt Concrete Overlay,2,666,"50,8",2,Square Yards
+42,Pennsylvania,1599,04-01-2011,43,Hot-Mix Recycled Asphalt Concrete Overlay,3,667,"63,5",2,Square Yards
+42,Pennsylvania,1597,07-09-2000,51,Mill Off AC and Overlay with AC ,6,667,"152,4",2,Square Yards
+42,Pennsylvania,1597,07-09-2000,10,AC Shoulder Restoration,6,667,,2,Square Yards
+42,Pennsylvania,1599,04-01-2011,10,AC Shoulder Restoration,3,444,"63,5",2,Square Yards
+42,Pennsylvania,1605,06-15-1995,10,AC Shoulder Restoration,2,556,"50,8",2,Square Yards
+42,Pennsylvania,1618,08-29-1989,11,AC Shoulder Replacement,2,333,"50,8",2,Square Yards
+42,Pennsylvania,1597,06-01-2015,33,Slurry Seal Coat,8,,,,
+42,Pennsylvania,1597,06-13-1990,1,Crack Sealing,2,,,,
+42,Pennsylvania,1597,06-25-1996,1,Crack Sealing,3,,,,
+42,Pennsylvania,1597,10-25-1999,1,Crack Sealing,5,,,,
+42,Pennsylvania,1597,06-01-2011,1,Crack Sealing,7,,,,
+42,Pennsylvania,1597,01-01-2020,1,Crack Sealing,9,,,,
+42,Pennsylvania,1599,06-01-1999,1,Crack Sealing,2,,,,
+42,Pennsylvania,1605,12-20-2001,1,Crack Sealing,3,,,,
+42,Pennsylvania,1605,06-15-1995,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+42,Pennsylvania,1618,08-28-1989,19,Asphalt Concrete Overlay,2,667,"152,4",2,Square Yards
+42,Pennsylvania,1618,08-28-1989,53,Other,2,,,,
+42,Pennsylvania,1618,08-29-1989,38,Longitudinal Subdrains,2,1800,,1,Feet
+42,Pennsylvania,1618,08-29-1989,39,Transverse Subdrainage,2,1200,,1,Feet
+42,Pennsylvania,1618,08-27-1989,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+42,Pennsylvania,1597,08-25-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+22,Louisiana,3056,06-15-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+23,Maine,1001,06-16-1995,51,Mill Off AC and Overlay with AC ,2,667,"78,7",2,Square Yards
+23,Maine,1001,06-16-1995,10,AC Shoulder Restoration,2,778,"78,7",2,Square Yards
+23,Maine,1009,08-23-1993,10,AC Shoulder Restoration,2,1111,"38,1",2,Square Yards
+23,Maine,1026,09-15-1996,10,AC Shoulder Restoration,2,444,"45,7",2,Square Yards
+23,Maine,1009,08-23-1993,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+23,Maine,1026,09-15-1996,19,Asphalt Concrete Overlay,2,667,"43,2",2,Square Yards
+23,Maine,1028,09-07-1994,19,Asphalt Concrete Overlay,3,667,"45,7",2,Square Yards
+23,Maine,1028,05-13-1992,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+24,Maryland,1634,05-06-1998,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+24,Maryland,2805,01-31-1992,12,Grinding Surface,2,,,,
+24,Maryland,1634,06-03-1998,10,AC Shoulder Restoration,2,556,"88,9",2,Square Yards
+24,Maryland,2401,07-01-2000,10,AC Shoulder Restoration,2,556,"25,4",2,Square Yards
+24,Maryland,2805,10-07-1992,10,AC Shoulder Restoration,3,1111,"45,7",2,Square Yards
+24,Maryland,2401,07-01-2000,1,Crack Sealing,2,,,,
+24,Maryland,1632,09-13-1997,19,Asphalt Concrete Overlay,2,666,"12,7",2,Square Yards
+24,Maryland,1634,06-03-1998,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+24,Maryland,2805,10-07-1992,19,Asphalt Concrete Overlay,3,667,"45,7",2,Square Yards
+24,Maryland,2401,07-01-2000,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,,,,
+25,Massachusetts,1004,08-01-2001,51,Mill Off AC and Overlay with AC ,2,667,"45,7",2,Square Yards
+25,Massachusetts,1002,06-06-1988,1,Crack Sealing,2,,,,
+25,Massachusetts,1002,10-15-1992,1,Crack Sealing,3,,,,
+25,Massachusetts,1002,11-04-1994,1,Crack Sealing,5,,,,
+25,Massachusetts,1002,10-02-1996,1,Crack Sealing,6,,,,
+25,Massachusetts,1002,07-01-1997,1,Crack Sealing,8,,,,
+25,Massachusetts,1003,06-08-1988,1,Crack Sealing,2,,,,
+25,Massachusetts,1004,09-02-2002,19,Asphalt Concrete Overlay,3,667,"50,8",2,Square Yards
+25,Massachusetts,1004,06-01-2015,19,Asphalt Concrete Overlay,4,667,"30,5",2,Square Yards
+25,Massachusetts,1002,05-01-1997,22,Manual Premix Spot Patch (hand spreading and compacting with roller),7,,,,
+25,Massachusetts,1002,09-20-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+25,Massachusetts,1002,10-02-1996,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",6,,,,
+25,Massachusetts,1002,07-01-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",8,,,,
+25,Massachusetts,1002,05-01-2000,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",9,,,,
+25,Massachusetts,1002,04-01-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",10,,,,
+26,Michigan,1004,06-05-1991,1,Crack Sealing,2,,,,
+26,Michigan,1013,06-15-1990,1,Crack Sealing,2,,,,
+26,Michigan,1012,10-01-1992,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,,,,
+26,Michigan,1012,10-01-1995,22,Manual Premix Spot Patch (hand spreading and compacting with roller),3,,,,
+26,Michigan,1004,06-01-1996,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),3,,,,
+27,Minnesota,1028,07-28-1997,51,Mill Off AC and Overlay with AC ,2,667,"50,8",2,Square Yards
+27,Minnesota,1004,06-01-2003,29,"Surface Treatment, Double Layer ",3,,,,
+27,Minnesota,1020,06-01-1999,29,"Surface Treatment, Double Layer ",2,,,,
+27,Minnesota,2018,06-01-2003,29,"Surface Treatment, Double Layer ",4,,,,
+27,Minnesota,2023,06-01-1999,29,"Surface Treatment, Double Layer ",2,,,,
+27,Minnesota,1018,07-25-2003,31,Aggregate Seal Coat,6,,,,
+27,Minnesota,1018,06-22-1995,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,4,667,"91,4",2,Square Yards
+27,Minnesota,1023,08-19-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"101,6",2,Square Yards
+27,Minnesota,6251,08-19-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,667,"50,8",2,Square Yards
+27,Minnesota,1004,07-01-2000,1,Crack Sealing,2,,,,
+27,Minnesota,1016,03-15-1999,1,Crack Sealing,3,,,,
+27,Minnesota,1018,04-01-2003,1,Crack Sealing,5,,,,
+27,Minnesota,1023,04-15-2001,1,Crack Sealing,3,,,,
+27,Minnesota,2018,06-01-2000,1,Crack Sealing,3,,,,
+27,Minnesota,2023,06-01-2003,1,Crack Sealing,3,,,,
+27,Minnesota,6251,06-01-2001,1,Crack Sealing,3,,,,
+27,Minnesota,6251,06-01-2015,1,Crack Sealing,4,,,,
+27,Minnesota,1016,09-17-1998,19,Asphalt Concrete Overlay,2,667,"38,1",2,Square Yards
+27,Minnesota,1003,06-01-2004,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+27,Minnesota,1017,08-01-1998,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+27,Minnesota,2018,08-01-1998,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,,,,
+27,Minnesota,2018,06-01-2000,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3,,,,
+27,Minnesota,1017,08-01-1998,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+27,Minnesota,1018,06-15-1993,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+27,Minnesota,1019,03-15-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+27,Minnesota,1019,03-15-1994,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+27,Minnesota,1023,06-01-2016,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",4,,,,
+27,Minnesota,1085,04-01-1990,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+27,Minnesota,1087,02-15-1999,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+27,Minnesota,1087,06-01-2008,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+27,Minnesota,1087,06-01-2011,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",5,,,,
+27,Minnesota,6251,06-01-2016,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),5,,,,
+27,Minnesota,1017,06-01-2004,28,"Surface Treatment, Single Layer",3,,,,
+27,Minnesota,1018,08-29-1994,28,"Surface Treatment, Single Layer",3,,,,
+27,Minnesota,1020,06-01-2003,28,"Surface Treatment, Single Layer",3,,,,
+27,Minnesota,1087,06-01-2010,28,"Surface Treatment, Single Layer",4,,,,
+28,Mississippi,2807,02-01-1994,51,Mill Off AC and Overlay with AC ,3,667,"50,8",2,Square Yards
+28,Mississippi,3081,08-08-1996,51,Mill Off AC and Overlay with AC ,3,667,"38,1",2,Square Yards
+28,Mississippi,3091,06-30-1995,51,Mill Off AC and Overlay with AC ,2,667,"38,1",2,Square Yards
+28,Mississippi,3093,06-02-1989,51,Mill Off AC and Overlay with AC ,2,667,"76,2",2,Square Yards
+28,Mississippi,3094,06-02-1989,51,Mill Off AC and Overlay with AC ,2,667,"76,2",2,Square Yards
+28,Mississippi,1001,06-07-1998,11,AC Shoulder Replacement,2,222,,2,Square Yards
+28,Mississippi,3081,09-15-1990,11,AC Shoulder Replacement,2,1111,"101,6",2,Square Yards
+28,Mississippi,3090,09-20-2000,31,Aggregate Seal Coat,2,,,,
+28,Mississippi,1001,06-08-1998,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,,"63,5",,
+28,Mississippi,3087,08-16-1996,19,Asphalt Concrete Overlay,2,667,"50,8",2,Square Yards
+28,Mississippi,3087,10-26-2012,19,Asphalt Concrete Overlay,3,656,"38,1",2,Square Yards
+28,Mississippi,2807,05-15-1997,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",4,,,,
+28,Mississippi,1001,05-15-2002,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+28,Mississippi,1802,05-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+28,Mississippi,1802,05-15-1999,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,,,,
+28,Mississippi,2807,05-15-1992,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+28,Mississippi,3085,05-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+28,Mississippi,3089,05-15-1997,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",2,,,,
+28,Mississippi,3085,07-15-2001,28,"Surface Treatment, Single Layer",3,,,,
