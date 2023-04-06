@@ -7,6 +7,9 @@
 # Folders to ignore
 bkp/
 
+# Mac
+.DS_Store
+
 # working on improvements
 # /models/train.py
 
