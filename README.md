@@ -26,6 +26,15 @@ Please direct issues, bug reports and pull requests to this GitHub page. To cont
 
 -- Tiago
 
+## How to use
+
+1. Create a virtual environment: `python -m venv venv`
+2. Activate the virtual environment:
+   - Windows: `venv\Scripts\activate`
+   - Linux/Mac: `source venv/bin/activate`
+3. Install the required packages: `pip install -r requirements.txt`
+4. Run the Jupyter Notebook: `jupyter notebook main.ipynb`
+
 ## License
 
 [CC-BY-NC-ND-4.0](LICENSE) (c) 2023, [Tiago Tamagusko](https://github.com/tamagusko).
