@@ -20,12 +20,6 @@ Tiago Tamagusko and Adelino Ferreira (2023). **Pavement Performance Prediction u
 }
 ```
 
-----
-
-Please direct issues, bug reports and pull requests to this GitHub page. To contact me directly, send email to tamagusko@gmail.com.
-
--- Tiago
-
 ## How to use
 
 1. Create a virtual environment: `python -m venv venv`
@@ -34,6 +28,12 @@ Please direct issues, bug reports and pull requests to this GitHub page. To cont
    - Linux/Mac: `source venv/bin/activate`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the Jupyter Notebook: `jupyter notebook main.ipynb`
+
+----
+
+Please direct issues, bug reports and pull requests to this GitHub page. To contact me directly, send email to tamagusko@gmail.com.
+
+-- Tiago
 
 ## License
 
